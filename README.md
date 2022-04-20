@@ -1,1 +1,2 @@
-# Type-inference-
+# Type-inference
+  python main.py
